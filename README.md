@@ -4,4 +4,3 @@ Algorithms used :
 1. Random Forest
 2. Logistic Regression
 3. Decision Trees
-4. 
